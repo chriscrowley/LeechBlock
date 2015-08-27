@@ -1,0 +1,222 @@
+Manifest-Version: 1.0
+
+Name: install.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: L1mflVygM1akbgZYfGC0QA==
+SHA1-Digest: FbWsljHjvl8ON/Vh6ir5N6F7cLY=
+
+Name: chrome.manifest
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: o98A1MfiaWo6EmoxeUogFg==
+SHA1-Digest: LZhKVlNFiDvk8GJCC0QZ5KEAeOg=
+
+Name: history.txt
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: DYuNCYl8yzaeIF/ekwGeMQ==
+SHA1-Digest: rq0AICPWvs4c8p3V65nWR5gzqCw=
+
+Name: chrome/content/accesscode.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: +Pu6UZXziKA4G8webb6RlA==
+SHA1-Digest: uGOrmBTcyK3OUhDWRihW1fAvqRI=
+
+Name: chrome/content/accesscode.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: uH2vY2uxWErFlN64IuG4YQ==
+SHA1-Digest: BedWM8dbWYLkYdwfZJ2ouUtAyAk=
+
+Name: chrome/content/browser.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: HcApQr+SNerHsZ9eeAJv+g==
+SHA1-Digest: Z4vEMC+41ZwKfUbtbzwKLrD1bJg=
+
+Name: chrome/content/browser.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: FM4t81ITqr11bx37YjxEjg==
+SHA1-Digest: R3AchBdshj006vGqevmp/R54R7Q=
+
+Name: chrome/content/lockdown.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: r3yHVp4z1SAI9OhpwfqUAQ==
+SHA1-Digest: mMciSii3hYPQyCeuk2bso5h+pxc=
+
+Name: chrome/content/lockdown.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ahWiEdyj98TzaHeRgPmYdA==
+SHA1-Digest: NHH/ekSCVDuEuwWvAgTVJIEUSDo=
+
+Name: chrome/content/options.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 0JnRWOUdg2xZdvNDKG5nkQ==
+SHA1-Digest: IfM+B3cZrcT1y6pFIzsEQKsJdw0=
+
+Name: chrome/content/options.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 5HG+91SG+xzcICPQaKedsg==
+SHA1-Digest: NOG9VW7SPi0asesrMViNAYXcPcw=
+
+Name: chrome/content/stats.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 25Rf4h9vWDvXgv4llfcWrw==
+SHA1-Digest: 4LrtcoRBrkyK92Z1QRb/KxaBSVs=
+
+Name: chrome/content/stats.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: HAg7brNpC0fr1r7tG6XoQw==
+SHA1-Digest: 5MnCGernHjzF+xQQBRmzLZw/9o8=
+
+Name: chrome/content/utils.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 4nyAFpmOgH0rwbz34CMIGA==
+SHA1-Digest: JtgQxZf/b0D6fUWkfd1J0q85uz0=
+
+Name: chrome/locale/cs-CZ/blocked.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Wuj1nW5BUUhzUr9Q0AQItA==
+SHA1-Digest: 84iTsHeFspVghy1v2sfyloLJFEE=
+
+Name: chrome/locale/cs-CZ/delayed.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: U7ESh5SbBYv2t1YLV4K5cg==
+SHA1-Digest: 4ktm+/L5qsoSvATfS1IIPuCLrfg=
+
+Name: chrome/locale/cs-CZ/leechblock.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: +IzGSeNcEo6YkLaslLfz3g==
+SHA1-Digest: aSJPsXQeK3vqvA0wf6RU4v32fvM=
+
+Name: chrome/locale/cs-CZ/leechblock.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 8Ri7T4y3qt305XBS9kbLwQ==
+SHA1-Digest: UCQZCtcPM2wPEIyKb3Q+gouQj8s=
+
+Name: chrome/locale/en-US/blocked.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: HAoGAHOFtt62HHzseiNdSg==
+SHA1-Digest: 9goBVwoTlcDj4FI8tWmscYvvdFs=
+
+Name: chrome/locale/en-US/delayed.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ODqqiycZ3VJBmA3A2vQ63Q==
+SHA1-Digest: i9JislAL+bzlgl3EuW5zwEDxiRk=
+
+Name: chrome/locale/en-US/leechblock.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: kiyNUnLaklQEc0t0SWey8w==
+SHA1-Digest: 6WKVVCNxelodcsg06Dqizdpa5FY=
+
+Name: chrome/locale/en-US/leechblock.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: eMCHM+P9c1B2Ytfy8l0hpA==
+SHA1-Digest: ZDUMpEurbmX8ZxaKyiDMc0GhEbA=
+
+Name: chrome/locale/fr-FR/blocked.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: NScemGv4PDjXUv67XveWbg==
+SHA1-Digest: zWX3JMK3DlGuqbTu+JiyDQwJUbI=
+
+Name: chrome/locale/fr-FR/delayed.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: u7LSCSjyfjOXc++7OWhmeA==
+SHA1-Digest: 8VLvYGDXbarlt4CT1mp1G9i8Czo=
+
+Name: chrome/locale/fr-FR/leechblock.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: qGRmA78624OtlKbuCNJpXw==
+SHA1-Digest: +Lwj/NCBy8jw/e8Zr56n8/c24MI=
+
+Name: chrome/locale/fr-FR/leechblock.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: FSp2ZCQu/SAd/hWNidDuDw==
+SHA1-Digest: +N5NK8HlTxT6NCKVxSC/KLz6+Vc=
+
+Name: chrome/locale/pt-BR/blocked.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: W5orPjnOuWnNffRlA4zRsA==
+SHA1-Digest: UpoPkVaGS0yx4IcN0phRRsuZKss=
+
+Name: chrome/locale/pt-BR/delayed.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: EibGI2MPS7EnzlJTfTmUWw==
+SHA1-Digest: hdOrZ1Dapll2/j+Worj25jMq9Xo=
+
+Name: chrome/locale/pt-BR/leechblock.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: oK05kGzdr8SWdCJx6gLVkA==
+SHA1-Digest: b44q3yb3b2/piQvGM9OC/haz+vk=
+
+Name: chrome/locale/pt-BR/leechblock.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: X2UINTP6I1BusyQEwy0ufw==
+SHA1-Digest: o/MQDCzgex2LiMXd5HK8Ut6pzow=
+
+Name: chrome/locale/zh-CN/blocked.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: L2QzGRBepsczE4OfQJ02VQ==
+SHA1-Digest: NZgB/5uyUfdU/XJ7Vf9wahyJ4F0=
+
+Name: chrome/locale/zh-CN/delayed.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: N1/qLwP5L66trozVyWdMMQ==
+SHA1-Digest: 22XwT3wjvboWY5dSxFMTSoOmBmo=
+
+Name: chrome/locale/zh-CN/leechblock.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: PExLEoVnFs0eV3nVnL2fPQ==
+SHA1-Digest: mfbrf63bnA8VR81NQAsvhlBYAdk=
+
+Name: chrome/locale/zh-CN/leechblock.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: j4yp2jCH8ko5/QZkmhlGQA==
+SHA1-Digest: gnfRjXE83sIX44v0hoNdC6y/GTU=
+
+Name: chrome/locale/zh-TW/blocked.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ZfeJ6Y0SJMmULmPbi8ntDQ==
+SHA1-Digest: P9Quuwvel8xBGOOZKyV1ZFMVktQ=
+
+Name: chrome/locale/zh-TW/delayed.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: I3XUCWaVwF1pclHapjUmKg==
+SHA1-Digest: 4vw/gVUGVC9eXFPQNbZfgNyDZf0=
+
+Name: chrome/locale/zh-TW/leechblock.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: N0lZBegvZD3qxI9vsSLS8g==
+SHA1-Digest: ZLTMTyCaFOSHivFrtQPg3cwi3b8=
+
+Name: chrome/locale/zh-TW/leechblock.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: TeuJPmeyERDeO34otYKylQ==
+SHA1-Digest: 8mRdrUmJ5m0TvMIV6uYfvG6cerc=
+
+Name: chrome/skin/leechblock16.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: feYRvAHb9Lnx2j9wXgln6w==
+SHA1-Digest: z50gCgEYiLX3dN2HwROAjPZTDo4=
+
+Name: chrome/skin/leechblock24.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: YFDTR1mVTI6UtOb/luA89g==
+SHA1-Digest: Cq7SzHXgVfMvhx8HXbkI5ojOaig=
+
+Name: chrome/skin/leechblock32.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: DzwSRdk6BhEO4FnNtiYIKA==
+SHA1-Digest: I/WLP9xmz3bM570cQty/3DuCKIc=
+
+Name: chrome/skin/leechblock64.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: eEPWu6/7WJ5XSgnPbt9nlA==
+SHA1-Digest: EkhVu+7CglobykMqWntclfX9fSM=
+
+Name: chrome/skin/toolbar.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: J8GXw9FxHxY2uH0KHW3jxw==
+SHA1-Digest: 7bCPibi5ERF724LvQTD4un5uD9U=
+
+Name: defaults/preferences/leechblock.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: +dLleAp9eHRVpicT5BWjMg==
+SHA1-Digest: 10VNG0g6hlhz1135Ft6y3Y5x26E=
+
